@@ -1,18 +1,14 @@
 ---
-title: Colophon
+title: megatunger
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Chào các bác, cháu là @megatunger
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Chào các bác, cháu là @megatunger. Đây là nhật ký kể chuyện code dạo của cháu. Cháu code Web và Mobile App, thỉnh thoảng đá sân sang làm UI/UX. Có gì các bác ủng hộ cháu star trên [Github](http://github.com/megatunger) nhá
 
-If you have a question about him or else, just send a letter to him.
-
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-**may u needs ✨**
+**Contact cháu nè ✨**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
