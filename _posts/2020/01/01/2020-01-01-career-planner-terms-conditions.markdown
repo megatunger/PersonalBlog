@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Career Planner: Privacy Policy, Terms & Conditions"
-date:   2020-11-01 13:09:14 +0700
+date:   2020-01-01 07:00:00 +0700
 categories: career planner, mobile app
 ---
 **Privacy Policy**
