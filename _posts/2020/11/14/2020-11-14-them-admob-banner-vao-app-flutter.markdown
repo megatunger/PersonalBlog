@@ -5,9 +5,6 @@ date:   2020-11-14 15:54:00 +0700
 categories: admob, flutter, lua lep
 ---
 
-
-## Thêm Admob Banner vào app Flutter
-
 Như các bác đã biết, Google Admob là nền tảng để Google hiển thị quảng cáo trên App của các bác, đồng thời giúp các bác có thể kiếm thêm chút tiền cafe hằng tháng. Hôm nay cháu xin giới thiệu cách để tích hợp vào app Flutter của các bác, hiển thị cố định ở cạnh dưới trên App.
 
 Tư liệu thực nghiệm hôm nay là app **Lúa Lếp**. Sản phẩm bài tập lớn môn Xử lí tiếng nói của nhóm cháu. Có gì các bác tải trên [Appstore](https://apps.apple.com/vn/app/lúa-lếp/id1519995438) hoặc [Google Play](https://play.google.com/store/apps/details?id=com.megatunger.lualepapp) ủng hộ cháu nha.
@@ -204,7 +201,7 @@ class AdsHelper {
 
 ```
 
-quay trở lại hàm initState của main.dart các bác cho bật ad
+quay trở lại hàm initState của main.dart các bác gọi `Ads.showBannerAd()`
 
 **main.dart**
 ```dart
