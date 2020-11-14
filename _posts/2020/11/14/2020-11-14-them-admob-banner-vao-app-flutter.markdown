@@ -154,7 +154,7 @@ Các bác tạo thêm một class để ẩn/hiện, init ad
 
 ```dart
 
-class AdsHelper {
+class Ads {
   static BannerAd _bannerAd;
 
   static void showPopupAd() {
