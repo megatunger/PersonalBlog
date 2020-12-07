@@ -34,7 +34,7 @@ Sử dụng cache ở rails khá đơn giản. Các bác chỉ việc wrap nó v
 
 Như vậy nếu cùng object answer, rails sẽ ưu tiên đọc từ cache. Có lưu ý là các bác nhớ config `cache_store` trong `development.rb` và `production.rb`
 
-Chơi lớn thì sử dụng `memcached` để dạt hiệu quả
+Chơi lớn thì sử dụng `memcached` để đạt hiệu quả cao hơn
 
 ***Before 2 bệnh trên***
 ![](Screen Shot 2020-12-04 at 17.54.48.PNG)
