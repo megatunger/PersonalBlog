@@ -12,7 +12,6 @@ Tuy nhiên, người dùng hệ thống của cháu thì không được "chill"
 #### Tình trạng bệnh lý
 
 **Hồ sơ bệnh án:**
-- Hệ thống về Giáo dục
 - Sử dụng combo Passenger + Nginx
 - Ngày thường vắng khách, cuối tuần vỡ trận
 - Mặc dù đã scale cấu hình hết cỡ nhưng vẫn chậm, chỉ thấy hết tiền  nhanh hơn
