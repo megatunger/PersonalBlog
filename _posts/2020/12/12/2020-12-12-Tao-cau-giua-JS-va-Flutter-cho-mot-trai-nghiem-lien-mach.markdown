@@ -75,9 +75,7 @@ class App extends StatelessWidget {
 
 #### B2: Tạo Bridge trong WebView
 
-Giả sử các bác có một trang Notifications như sau
-
-và code của WebView đó
+Giả sử các bác có một đoạn code của WebView
 ```dart
 return WebView(
                 key: _key,
