@@ -50,7 +50,7 @@ class YourAppRouter {
 }
 
 class YourAppRoutes {
-  static const String route1 = /route1';
+  static const String route1 = '/route1';
   static const String route2 = '/route2';
 }
 
