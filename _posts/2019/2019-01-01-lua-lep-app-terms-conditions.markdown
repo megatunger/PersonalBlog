@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lua Lep App: Privacy Policy, Terms & Conditions"
-date:   2020-01-01 07:00:00 +0700
+date:   2019-01-01 07:00:00 +0700
 categories: lua lep, mobile app
 ---
 

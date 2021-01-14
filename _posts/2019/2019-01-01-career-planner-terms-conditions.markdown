@@ -1,29 +1,29 @@
 ---
 layout: post
-title:  "BM Student: Privacy Policy, Terms & Conditions"
-date:   2020-01-01 07:00:00 +0700
-categories: BM Student, mobile app
+title:  "Career Planner: Privacy Policy, Terms & Conditions"
+date:   2019-01-01 07:00:00 +0700
+categories: career planner, mobile app
 ---
-
 **Privacy Policy**
 
-Hoang Son Tung built the BM Student app as a Free app. This SERVICE is provided by Hoang Son Tung at no cost and is intended for use as is.
+Hoang Son Tung built the Career Planner app as an Ad Supported app. This SERVICE is provided by Hoang Son Tung at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at BM Student unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Career Planner unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to @megatunger, Hoang Son Tung. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to @megatunger. The information that I request will be retained on your device and is not collected by me in any way.
 
 The app does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Sentry](https://sentry.io/privacy/)
@@ -65,25 +65,26 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2020-01-01
+This policy is effective as of 2020-11-1
 
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at megatunger@gmail.com.
 
-**Terms & Conditions**
+# Terms & Conditions
 
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Hoang Son Tung.
 
 Hoang Son Tung is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
-The BM Student app stores and processes personal data that you have provided to us, in order to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the BM Student app won’t work properly or at all.
+The Career Planner app stores and processes personal data that you have provided to us, in order to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Career Planner app won’t work properly or at all.
 
 The app does use third party services that declare their own Terms and Conditions.
 
 Link to Terms and Conditions of third party service providers used by the app
 
 *   [Google Play Services](https://policies.google.com/terms)
+*   [AdMob](https://developers.google.com/admob/terms)
 *   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 *   [Sentry](https://sentry.io/terms/)
@@ -102,7 +103,45 @@ At some point, we may wish to update the app. The app is currently available on 
 
 I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2020-01-01
+These terms and conditions are effective as of 2020-11-01
+
+**Contact Us**
+
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at megatunger@gmail.com.
+
+**Terms & Conditions**
+
+By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Hoang Son Tung.
+
+Hoang Son Tung is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+
+The Lua Lep app stores and processes personal data that you have provided to us, in order to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Lua Lep app won’t work properly or at all.
+
+The app does use third party services that declare their own Terms and Conditions.
+
+Link to Terms and Conditions of third party service providers used by the app
+
+*   [Google Play Services](https://policies.google.com/terms)
+*   [AdMob](https://developers.google.com/admob/terms)
+*   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
+*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+*   [Unity](https://unity3d.com/legal/terms-of-service)
+
+You should be aware that there are certain things that Hoang Son Tung will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Hoang Son Tung cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+
+If you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
+
+Along the same lines, Hoang Son Tung cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Hoang Son Tung cannot accept responsibility.
+
+With respect to Hoang Son Tung’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Hoang Son Tung accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+
+At some point, we may wish to update the app. The app is currently available on Android & iOS – the requirements for both systems(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Hoang Son Tung does not promise that it will always update the app so that it is relevant to you and/or works with the Android & iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+
+**Changes to This Terms and Conditions**
+
+I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
+
+These terms and conditions are effective as of 2020-07-01
 
 **Contact Us**
 

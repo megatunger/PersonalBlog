@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SolveX: Privacy Policy, Terms & Conditions"
-date:   2020-01-01 07:00:00 +0700
+date:   2019-01-01 07:00:00 +0700
 categories: SolveX, mobile app
 ---
 
