@@ -32,32 +32,31 @@ Hero(
 
 Một danh sách cuộn lên cuộn xuống tương đối nhàm chán? Giờ thêm tí hiệu ứng 3D cho zui nha.
 
-[![](http://img.youtube.com/vi/dUhmWAz4C7Y/0.jpg)](http://www.youtube.com/watch?v=dUhmWAz4C7Y "")
+{% youtube "http://www.youtube.com/watch?v=dUhmWAz4C7Y" %}
 
 #### PhysicalModel
 
 Tạo cảm giác chiều sâu bằng hiệu ứng đổ bóng (Shadow), quan trọng nhất: dùng được cho mọi Widget (bình thường sẽ phải tìm cách wrap vào Card)
 
-[![](http://img.youtube.com/vi/XgUOSS30OQk/0.jpg)](http://www.youtube.com/watch?v=XgUOSS30OQk "")
+{% youtube "http://www.youtube.com/watch?v=XgUOSS30OQk" %}
 
 #### InteractiveViewer
 
 Tạo một khung ảnh zoom ra zoom vào dễ hơn cả code Hello World
 
-[![](http://img.youtube.com/vi/zrn7V3bMJvg/0.jpg)](http://www.youtube.com/watch?v=zrn7V3bMJvg "")
-
+{% youtube "http://www.youtube.com/watch?v=zrn7V3bMJvg" %}
 
 #### AnimatedIcon
 
 Đọc phát biết làm gì luôn.
 
-[![](http://img.youtube.com/vi/pJcbh8pbvJs/0.jpg)](http://www.youtube.com/watch?v=pJcbh8pbvJs "")
+{% youtube "http://www.youtube.com/watch?v=pJcbh8pbvJs" %}
 
 #### IndexedStack
 
-Giữ nguyên state khi chuyển Widget (hơi khó hiểu lúc đầu nhưng các bác hãy nghĩ đến ví dụ là làm một cái BottomNavigationBar sẽ biết cái này có tác dụng gì)
+Giữ nguyên state khi chuyển Widget (hơi khó hiểu lúc đầu nhưng các bác hãy nghĩ đến ví dụ là làm một cái BottomNavigationBar thì khi chuyển tab thì trạng thái phải giữ nguyên đúng không)
 
-[![](http://img.youtube.com/vi/_O0PPD1Xfbk/0.jpg)](http://www.youtube.com/watch?v=_O0PPD1Xfbk "")
+{% youtube "http://www.youtube.com/watch?v=_O0PPD1Xfbk" %}
 
 ...tạm thế, code gần 1 năm rồi cháu vẫn chưa thuộc hết đống Widget đâu =))
 
@@ -106,8 +105,7 @@ Cháu dùng rồi, thấy bộ Web còn nhiều lỗi lắm:
 ## Tổng kết
 ***Quan điểm cá nhân***
 
-Flutter là một framework rất tiềm năng, và có cách tiếp cận đúng đắn từ đầu. Nếu ai đó hỏi cháu dùng framework R.N của công ty Pê Tê Búc hay F. của Gút Gồ, cháu sẽ mượn lời thánh chửi=})
-
+Flutter là một framework rất tiềm năng, và có cách tiếp cận đúng đắn từ đầu. Nếu ai đó hỏi cháu dùng React Native hay Flutter, cháu sẽ mượn lời thánh chửi như sau:
 
 ![](maxresdefault.jpg)
 
