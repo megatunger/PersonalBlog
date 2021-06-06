@@ -11,9 +11,8 @@ mode: light # default theme "dark" | "light"
 # Profile settings
 author:
   name: Hoàng Sơn Tùng # author name
-  bio:
-    Ở đây không có phát card.
-  username: megatunger 
+  bio: góc xàm xí
+  username: megatunger
   github: megatunger
   facebook: megatunger
   email: megatunger@gmail.com
