@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Điều Flutter luôn giữ kín trong tim"
-date:   2021-02-01 07:00:00 +0700
+title: "Điều Flutter luôn giữ kín trong tim"
+date: 2021-02-01 07:00:00 +0700
 categories: flutter, mobile app
 ---
 
@@ -66,7 +66,6 @@ Có một bệnh ôn dịch của các framework "react" là **RE-RENDER**. Bệ
 
 Flutter không thoát được đâu, các bác mà không code theo kiến trúc cụ thể như `BLOC` thì xác định app toang dần đều nha =)). Tuy vậy, chúng ta vẫn may mắn vì có bộ Inspector/Profiler ngon hơn cả Ngọc Trinh.
 
-
 ![](Screen Shot 2021-02-03 at 01.37.41.png)
 
 Chức năng đỉnh nhất: Track widget rebuilds. Nó giúp track cái widget bác đang dùng có những thành phần nào đang rerender, render bao nhiêu lần. Nếu có một thành phần đang render nó cũng hiện luôn một cái vòng xoay xoay bên cạnh giúp các bác biết ngay thằng nào đang có dấu hiệu không bình thường
@@ -88,7 +87,7 @@ Vì nó compile ra native code, các bác định làm thủ thuật replace cod
 - Bộ CupertinoDesign (mang design iOS lên App): Được Google coi như công dân hạng 2. Dùng bộ này xong App của các bác sẽ trông giống như iPhone chạy Android
 
 ![](IMG_3659.PNG)
-***Không chút giả trân luôn***
+**_Không chút giả trân luôn_**
 
 - App nặng hơn tầm 50% & nóng máy hơn so với Android
 - Build iOS cực chậm, lắp Firebase vào thì các bác nhớ lắp [cái này](https://github.com/invertase/firestore-ios-sdk-frameworks) vào nha. Không là build 20 phút cho một cái app Hello World thì hông ai độ được đâu:))
@@ -96,16 +95,8 @@ Vì nó compile ra native code, các bác định làm thủ thuật replace cod
 #### Bộ Web không ngon lắm
 
 Cháu dùng rồi, thấy bộ Web còn nhiều lỗi lắm:
+
 - Setup xong code một hồi thì một loạt lỗi tâm linh xuất hiện, không build được mobile app nữa. Tứk
 - Chưa có Hot Reload. Sửa một cái Button thôi mà chờ nó load lại cả app.
 - Chậm, chậm vl. NextJS, React, Angular,.. chắc cười khinh bỉ
 - Vấn đề cốt lõi: Giao diện Desktop/App nó khác nhau một trời một vực nên các bác hãy nghĩ là nó đang giải quyết bài toán PWA cho Mobile nhá, không phải là mang App lên Desktop dùng đâu:))) Âm điểm UX luôn đó.
-
-
-## Tổng kết
-***Quan điểm cá nhân***
-
-Flutter là một framework rất tiềm năng, và có cách tiếp cận đúng đắn từ đầu. Nếu ai đó hỏi cháu dùng React Native hay Flutter, cháu sẽ mượn lời thánh chửi như sau:
-
-![](maxresdefault.jpg)
-
