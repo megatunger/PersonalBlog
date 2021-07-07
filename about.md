@@ -2,13 +2,13 @@
 title: megatunger
 permalink: /about/
 layout: page
-excerpt: Chào các bác, cháu là @megatunger
+excerpt: Hêlô World
 comments: false
 ---
 
-Chào các bác, cháu là @megatunger. Đây là nhật ký kể chuyện code dạo của cháu. Cháu code Web và Mobile App, thỉnh thoảng đá sân sang làm UI/UX. Có gì các bác ủng hộ cháu star trên [Github](http://github.com/megatunger) nhá
+Chào các bác, Đây là góc xàm xí về Web / Mobile / UI thứ gì cũng có :D Có gì các bác ủng hộ cháu star trên [Github](http://github.com/megatunger) nhá
 
-**Contact cháu nè ✨**
+**Contact ✨**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}

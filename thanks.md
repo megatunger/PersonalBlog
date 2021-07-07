@@ -9,4 +9,4 @@ Gửi lời chân thành sâu sắc đến các khách đã tin tưởng cho ch�
 
 <hr>
 
-Các bác là động lực để cháu phát card trong tương lai :))
+Các bác là động lực để cháu xàm xí tiếp :))
