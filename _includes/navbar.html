@@ -164,10 +164,10 @@
         {%- assign url = page.url -%}
         {%- assign menus = site.data.menus -%}
         {%- if menus %}
-          {%- for menu in menus -%} 
+          {%- for menu in menus -%}
             {%- if url == menu.url -%}
               <a class="menu-link active" href="{{ menu.url }}">{{ menu.title }}</a>
-            {%- else -%} 
+            {%- else -%}
               {%- if menu.external -%}
                 <a
                   class="menu-link"
@@ -178,14 +178,14 @@
                 >
               {%- else -%}
                 <a class="menu-link" href="{{ menu.url }}">{{ menu.title }}</a>
-              {%- endif -%} 
-            {%- endif -%} 
+              {%- endif -%}
+            {%- endif -%}
           {%- endfor -%}
         {%- else -%}
-          <a class="menu-link {% if url == '/' %}active{% endif %}" href="/">home</a>
-          <a class="menu-link {% if url == '/about/' %}active{% endif %}" href="/about">about</a>
+          <a class="menu-link {% if url == '/' %}active{% endif %}" href="/" onclick="analytics.logEvent('go_back_home')">home</a>
+          <a class="menu-link {% if url == '/about/' %}active{% endif %}" href="/about" onclick="analytics.logEvent('go_to_about_me')">about</a>
         {%- endif -%}
-        <a class="menu-link rss" href="/feed.xml">
+        <a class="menu-link rss" href="/feed.xml" onclick="analytics.logEvent('rss_feed')">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="17"

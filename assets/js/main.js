@@ -7,9 +7,11 @@
     if (state === "dark") {
       localStorage.setItem("theme", "light");
       body.removeAttribute("data-theme");
+      analytics.logEvent('light_theme');
     } else if (state === "light") {
       localStorage.setItem("theme", "dark");
       body.setAttribute("data-theme", "dark");
+      analytics.logEvent('dark_theme');
     } else {
       initTheme(state);
     }
