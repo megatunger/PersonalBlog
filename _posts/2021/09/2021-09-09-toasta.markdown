@@ -1,0 +1,65 @@
+---
+layout: post
+title: "Toasta: Simple & Elegant Toast libary for Flutter"
+date: 2021-09-24 07:00:00 +0700
+categories: flutter, dart, toast, toasta
+---
+
+{% include toasta_demo.html %}.
+
+<iframe src="/assets/toasta/index.html" width="100%" height="650" style="display:block; margin: 0 auto; border: 1 solid grey; border-radius: 10px" frameBorder="0">&nbsp;</iframe>
+
+Simple, Smooth & Elegant toast libary for Flutter on all Platform. Inspired by iOS
+
+## How to use
+
+Step 1: Add to pubspec.yaml
+
+```
+flutter pub add toasta
+```
+
+Step 2: Wrap your `MaterialApp` to `ToastaContainer`
+
+```dart
+class MyApp extends StatelessWidget {
+  const MyApp({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return ToastaContainer( // Wrap your app by ToastaContainer
+      child: MaterialApp(
+        ...
+      ),
+    );
+  }
+}
+```
+
+Step 3: Start using
+
+```dart
+final toast = Toast(title: "Hello World", subtitle: "This is Toasta");
+Toasta(context).toast(toast);
+```
+
+| Property                   | Description                                                                 | Default              |
+| -------------------------- | --------------------------------------------------------------------------- | -------------------- |
+| height `double`            | Height of toast                                                             | 56                   |
+| width `double`             | Width of toast                                                              | 70% of screen width  |
+| darkMode `bool`            | Dark mode                                                                   | false                |
+| fadeInSubtitle `bool`      | Fade in animation for subtitle                                              | false                |
+| title `String` `Widget`    | The upper part of toast, you can passing both String or Widget to customize | null                 |
+| subtitle `String` `Widget` | The lower part of toast, you can passing both String or Widget to customize | null                 |
+| leading `Widget`           | Customize leading part of toast                                             | null                 |
+| trailing `Widget`          | Customize trailing part of toast                                            | null                 |
+| onTap                      | Callback on tap Toast                                                       | null                 |
+| onAppear                   | Callback after appeared Toast                                               | null                 |
+| onExit                     | Callback after disappeared Toast                                            | null                 |
+| status                     | You can passing ToastStatus `success` `failed` `warning` `info`             | null                 |
+| backgroundColor            | Customize background color                                                  | null                 |
+| duration                   | Duration of toast                                                           | Duration(seconds: 3) |
+
+## Support
+
+Feel free to suggest features, reporting bugs or customize attributes.
