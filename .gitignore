@@ -32,3 +32,4 @@ _site/
 _drafts
 klise-*.gem
 /.idea
+Gemfile.lock
