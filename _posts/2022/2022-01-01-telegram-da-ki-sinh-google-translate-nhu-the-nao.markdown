@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Telegram đã kí sinh trên API của Google Translate như thế nào"
-date: 2021-12-31 07:00:00 +0700
+date: 2022-01-01 07:00:00 +0700
 categories: telegram, google translate, api
 ---
 
