@@ -34,7 +34,7 @@ Nếu website các bác cần có serverless đứng sau, hãy tham khảo Verce
 Nếu các bác cảm thấy mình nhiều tiền quá và nghiện AWS thì dịch vụ tương đương này sẽ là AWS Amplify (không phải S3 đâu, các bác quên tính chi phí build rồi). Giá mà tính ra chắc phải gấp vài chục lần những cái tên còn lại :))
 
 ![](Screen%20Shot%202022-01-15%20at%2020.45.05.png)
-<sub><sup>Báo giá công ty AWS giấu tên</sup></sub>
+<sub><sup>Báo giá sương sương giấu tên</sup></sub>
 
 ## Server: Vultr
 
@@ -44,7 +44,7 @@ Quên EC2 đi, [Vultr](https://www.vultr.com/products/cloud-compute/) mới là 
 
 Giá trên là giá Vultr, x2 lên các bác có giá AWS EC2 :)
 
-## Lưu ảnh: Bunny.net
+## Lưu ảnh: [Bunny.net](https://bunny.net)
 
 Chắc các bác sẽ hỏi:
 - Tại sao không lưu hết vào Backblaze? Vì đây là CDN, tốc độ khi access các file nhỏ sẽ nhanh hơn một dịch vụ mang tính "backup"
