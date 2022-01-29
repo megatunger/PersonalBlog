@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "uService: Privacy Policy, Terms & Conditions"
+date:   2019-01-01 07:00:00 +0700
+categories: uService, mobile app
+---
 
 **Data Privacy Important Notes**
 
