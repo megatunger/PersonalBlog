@@ -70,7 +70,7 @@ Trong config kia sẽ có đoạn `localIdentName` `getLocalIdent` có thể gâ
 
 # 🌿 Tích hợp Antd Pro
 
-Ant Design có một bộ components nữa gọi là Pro Components. Các components này được xây dựng theo "convention" cho 1 resource CRUD bất kì. Các bác có thể tham khảo template chung của 1 app rdùng Ant Design Pro: [Preview](https://preview.pro.ant.design/)
+Ant Design có một bộ components nữa gọi là Pro Components. Các components này được xây dựng theo "convention" cho 1 resource CRUD bất kì. Các bác có thể tham khảo template chung của 1 app dùng Ant Design Pro: [Preview](https://preview.pro.ant.design/)
 
 Và để bắt đầu pro hơn, các bác gõ lệnh sau:
 
