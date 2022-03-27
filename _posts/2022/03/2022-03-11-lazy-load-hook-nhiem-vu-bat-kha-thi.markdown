@@ -95,5 +95,5 @@ const ChildComponent = () => {
 </Suspense>
 ```
 
-⚠️ Kĩ thuật này có tính over-engineering. Việc lazy load một hook (thứ gần như rất nhẹ) sẽ khiến thời gian load request khả năng cao lâu hơn là gộp chung trong một chunk & waterfall request (badly). Use case cháu dùng duy nhất là để load những hook mà bị lỗi server-side trên Next.js
+⚠️ Kĩ thuật này có tính over-engineering. Việc lazy load một hook (thứ gần như rất nhẹ) sẽ khiến thời gian load request khả năng cao lâu hơn là gộp chung trong một chunk. Use case cháu dùng duy nhất là để load những hook mà bị lỗi server-side trên Next.js
 
