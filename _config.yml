@@ -1,7 +1,7 @@
 # Site settings
-title: megatunger | Code dạo full-time
+title: megatunger
 description: >-
-  Góc xàm xí
+
 lang: vi-VN
 timezone: Asia/Hanoi
 image: assets/img/cover.png
@@ -11,7 +11,7 @@ mode: light # default theme "dark" | "light"
 # Profile settings
 author:
   name: Hoàng Sơn Tùng # author name
-  bio: góc xàm xí
+  bio:
   username: megatunger
   github: megatunger
   facebook: megatunger
